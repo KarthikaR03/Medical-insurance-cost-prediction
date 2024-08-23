@@ -43,12 +43,11 @@ Evaluate the model using metrics such as Mean Absolute Error (MAE), Mean Squared
 Compare the performance of the model with other regression models if applicable.
 Interpret the model coefficients to understand the impact of each feature on the target variable.
 
-****Requirements
-**
+**Requirements**
 
 Python 3.x
 lib:Pandas,NumPy,Scikit-learn,Matplotlib/Seaborn (for visualization)
 
-**References
-**
+**References**
+
 Kaggle Insurance Dataset: [https://www.kaggle.com/datasets/mirichoi0218/insurance]
