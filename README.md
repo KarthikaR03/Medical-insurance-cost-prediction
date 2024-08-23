@@ -2,7 +2,7 @@
 
 This project involves predicting medical insurance costs based on various features using linear regression. The dataset used is from Kaggle and is named insurance.csv. Linear regression is employed to model the relationship between the features and the cost of insurance.
 
-Dataset
+#Dataset
 The dataset insurance.csv contains the following columns:
 
 age: The age of the individual.
